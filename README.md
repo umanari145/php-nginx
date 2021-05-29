@@ -3,12 +3,15 @@
 ##　nginxの設定について
 サブディレクトリでの配置などについて
 
-nginx_1  | 192.168.112.1 - - [29/May/2021:15:49:22 +0000] "GET /subdir/sample.php HTTP/1.1" 200 299 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" "-" "/etc/nginx/html" "/subdir/sample.php"
-
 
 ### 参考リンク
+https://skill-up-engineering.com/2021/05/30/nginx%e3%81%a7%e3%81%ae%e8%a8%ad%e5%ae%9a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/
+
 rootとaliasについて<br>
 https://qiita.com/oogaki_newmedia/items/749c855ad985c8258e66
+
+nginxの変数について<br>
+https://qiita.com/kotarella1110/items/3b0bd84fdb55276f37d9
 
 サブディレクトリの配置について<br>
 https://aqua-engineer.com/post-834/<br>
